@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Pranau, a MS Cybersecurity student at Georgia Tech. My interests include network security, malware analysis, and usable security.
+I'm Pranau, a Cybersecurity grad student at Georgia Tech. I'm actively looking for full-time opportunities as a Security Engineer, Security Researcher, or Software Engineer! I am broadly interested in creating tools that make it easier to secure infrastructure.
 
-I am on the lookout for summer '23 internships. If interested, get in touch by sending a message to {my-first-name} [at] gatech.edu.
+I'm happy to talk further. Reach my via mail at - `[first name]@gatech.edu`
 
 <!--
 **pranau97/pranau97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
