@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Pranau, a Cybersecurity grad student at Georgia Tech. I'm actively looking for full-time opportunities as a Security Engineer, Security Researcher, or Software Engineer! I am broadly interested in creating tools that make it easier to secure infrastructure.
+I'm Pranau, a Georgia Tech alum & Security Engineer at Meta! I am broadly interested in creating tools that make it easier to secure infrastructure.
 
-I'm happy to talk further. Reach my via mail at - `[first name]@gatech.edu`
+I'm happy to talk further. Reach me via mail at - `[first name]@gatech.edu`
 
 <!--
 **pranau97/pranau97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
